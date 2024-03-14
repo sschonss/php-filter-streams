@@ -1,0 +1,30 @@
+Django: A high-level Python web framework that encourages rapid and clean development.
+Ruby on Rails: A Ruby web framework that favors convention over configuration, enabling rapid application development.
+Express.js: A minimalist and flexible web framework for Node.js, used for building web applications and APIs.
+Flask: A Python microframework for building simple and flexible web applications.
+Spring: A comprehensive Java application framework used to build enterprise applications.
+Symfony: A PHP web application framework known for its flexibility and scalability.
+CodeIgniter: A lightweight PHP framework used for building dynamic web applications.
+CakePHP: A PHP web framework known for its rapid development and clean code.
+Laravel: A PHP web framework known for its elegant syntax and expressive codebase.
+ASP.NET: A web application framework developed by Microsoft for building dynamic web sites, web applications, and web services.
+Vue.js: A progressive JavaScript framework for building user interfaces and single-page applications.
+AngularJS/Angular: An open-source JavaScript framework maintained by Google for developing single-page web applications.
+React.js: A JavaScript library maintained by Facebook for building interactive user interfaces.
+React Native: A JavaScript framework maintained by Facebook for building native mobile apps using React.
+Flutter: An open-source UI framework from Google for building natively compiled apps for mobile, web, and desktop from a single codebase.
+Ionic: A hybrid app development framework using HTML5, CSS, and JavaScript.
+Xamarin: A Microsoft mobile app development framework that allows building native apps for iOS, Android, and Windows using C#.
+Unity: A cross-platform game engine used to develop 2D and 3D games.
+Unreal Engine: A game engine and content creation tool developed by Epic Games for creating AAA games.
+TensorFlow: An open-source library for machine learning and deep learning developed by Google Brain.
+PyTorch: An open-source machine learning library based on Python, primarily developed by Facebook's AI Research lab (FAIR).
+Scikit-learn: A machine learning library in Python that supports various supervised and unsupervised learning techniques.
+Keras: A high-level deep learning library that can run on top of TensorFlow or Theano.
+Electron: A cross-platform desktop application development framework using web technologies.
+Qt: A set of software development tools for building desktop and mobile applications.
+Phaser: An open-source HTML5 game development framework based on JavaScript.
+Babylon.js: A powerful JavaScript library for creating 3D graphics and interactive experiences in the browser.
+GraphQL: A query language for your APIs that provides a more efficient and powerful way to fetch and manipulate data.
+FastAPI: A modern, fast (based on Starlette) framework for building APIs with Python 3.7+.
+Git: A distributed version control system used to track changes in source code during software development.
